@@ -1,0 +1,1199 @@
+[
+ {
+  "id": 1,
+  "name": "Miya",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2016,
+  "priceBP": 10800,
+  "priceDiamond": 399
+ },
+ {
+  "id": 2,
+  "name": "Balmond",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 3,
+  "name": "Saber",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 4,
+  "name": "Alice",
+  "primaryRole": "TANK",
+  "primaryLane": "EXP",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 5,
+  "name": "Nana",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 6,
+  "name": "Tigreal",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 7,
+  "name": "Alucard",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 8,
+  "name": "Karina",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 9,
+  "name": "Akai",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 10,
+  "name": "Franco",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 749
+ },
+ {
+  "id": 11,
+  "name": "Bane",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 12,
+  "name": "Bruno",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 13,
+  "name": "Clint",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 14,
+  "name": "Rafaela",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 6500,
+  "priceDiamond": 299
+ },
+ {
+  "id": 15,
+  "name": "Eudora",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2016,
+  "priceBP": 2000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 16,
+  "name": "Zilong",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 17,
+  "name": "Fanny",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 18,
+  "name": "Layla",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2016,
+  "priceBP": 2000,
+  "priceDiamond": 299
+ },
+ {
+  "id": 19,
+  "name": "Minotaur",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 20,
+  "name": "Lolita",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 21,
+  "name": "Hayabusa",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 22,
+  "name": "Freya",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2016,
+  "priceBP": null,
+  "priceDiamond": 599
+ },
+ {
+  "id": 23,
+  "name": "Gord",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2016,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 24,
+  "name": "Natalia",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 25,
+  "name": "Kagura",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 26,
+  "name": "Chou",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2016,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 27,
+  "name": "Sun",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2016,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 28,
+  "name": "Alpha",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 29,
+  "name": "Ruby",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 30,
+  "name": "Yi Sun-shin",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 31,
+  "name": "Moskov",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 32,
+  "name": "Johnson",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 33,
+  "name": "Cyclops",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": 15000,
+  "priceDiamond": 399
+ },
+ {
+  "id": 34,
+  "name": "Estes",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 35,
+  "name": "Hilda",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 36,
+  "name": "Aurora",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 37,
+  "name": "Lapu-Lapu",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 38,
+  "name": "Vexana",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 39,
+  "name": "Roger",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 40,
+  "name": "Karrie",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 41,
+  "name": "Gatotkaca",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 42,
+  "name": "Harley",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 43,
+  "name": "Irithel",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 44,
+  "name": "Grock",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 45,
+  "name": "Argus",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 46,
+  "name": "Odette",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": null,
+  "priceDiamond": null
+ },
+ {
+  "id": 47,
+  "name": "Lancelot",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 48,
+  "name": "Diggie",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 49,
+  "name": "Hylos",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 50,
+  "name": "Zhask",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 51,
+  "name": "Helcurt",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 52,
+  "name": "Pharsa",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2017,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 53,
+  "name": "Lesley",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 54,
+  "name": "Jawhead",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 55,
+  "name": "Angela",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2018,
+  "priceBP": 24000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 56,
+  "name": "Gusion",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 57,
+  "name": "Valir",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 58,
+  "name": "Martis",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 59,
+  "name": "Uranus",
+  "primaryRole": "TANK",
+  "primaryLane": "EXP",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 60,
+  "name": "Hanabi",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 61,
+  "name": "Chang'e",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 62,
+  "name": "Kaja",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 63,
+  "name": "Selena",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 64,
+  "name": "Aldous",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 65,
+  "name": "Claude",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 66,
+  "name": "Leomord",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 67,
+  "name": "Lunox",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 68,
+  "name": "Hanzo",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 69,
+  "name": "Belerick",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 70,
+  "name": "Kimmy",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 71,
+  "name": "Thamuz",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 72,
+  "name": "Harith",
+  "primaryRole": "MAGE",
+  "primaryLane": "GOLD",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 73,
+  "name": "Minsitthar",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 74,
+  "name": "Kadita",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2018,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 75,
+  "name": "Vale",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 76,
+  "name": "Faramis",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "MID",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 77,
+  "name": "Badang",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "ROAM",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 78,
+  "name": "Khufra",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 79,
+  "name": "Granger",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 80,
+  "name": "Guinevere",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 81,
+  "name": "Esmeralda",
+  "primaryRole": "TANK",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 82,
+  "name": "Terizla",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 83,
+  "name": "X.Borg",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 84,
+  "name": "Ling",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 85,
+  "name": "Dyrroth",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 86,
+  "name": "Lylia",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 87,
+  "name": "Baxia",
+  "primaryRole": "TANK",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 88,
+  "name": "Masha",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 89,
+  "name": "Wanwan",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 90,
+  "name": "Silvanna",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2019,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 91,
+  "name": "Cecilion",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 92,
+  "name": "Carmilla",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 93,
+  "name": "Atlas",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 94,
+  "name": "Popol and Kupa",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 95,
+  "name": "Yu Zhong",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 96,
+  "name": "Luo Yi",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 97,
+  "name": "Benedetta",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "EXP",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 98,
+  "name": "Khaleed",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "ROAM",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 99,
+  "name": "Barats",
+  "primaryRole": "TANK",
+  "primaryLane": "EXP",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 100,
+  "name": "Brody",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 101,
+  "name": "Mathilda",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2020,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 102,
+  "name": "Yve",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 103,
+  "name": "Paquito",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 104,
+  "name": "Gloo",
+  "primaryRole": "TANK",
+  "primaryLane": "ROAM",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 105,
+  "name": "Beatrix",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 106,
+  "name": "Phoveus",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 107,
+  "name": "Natan",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 108,
+  "name": "Aulus",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 109,
+  "name": "Aamon",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 110,
+  "name": "Valentina",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 111,
+  "name": "Edith",
+  "primaryRole": "TANK",
+  "primaryLane": "EXP",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 112,
+  "name": "Floryn",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2021,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 113,
+  "name": "Yin",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 114,
+  "name": "Melissa",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 115,
+  "name": "Xavier",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 116,
+  "name": "Julian",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 117,
+  "name": "Fredrinn",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 118,
+  "name": "Joy",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2022,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 119,
+  "name": "Novaria",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2023,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 120,
+  "name": "Arlott",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2023,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 121,
+  "name": "Ixia",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2023,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 122,
+  "name": "Nolan",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2023,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 123,
+  "name": "Cici",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2023,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 124,
+  "name": "Chip",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2024,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 125,
+  "name": "Zhuxin",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2024,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 126,
+  "name": "Suyou",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2024,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 127,
+  "name": "Lukas",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2024,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 128,
+  "name": "Kalea",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2025,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 129,
+  "name": "Zetian",
+  "primaryRole": "MAGE",
+  "primaryLane": "MID",
+  "releaseYear": 2025,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 130,
+  "name": "Obsidia",
+  "primaryRole": "MARKSMAN",
+  "primaryLane": "GOLD",
+  "releaseYear": 2025,
+  "priceBP": 32000,
+  "priceDiamond": 499
+ },
+ {
+  "id": 131,
+  "name": "Sora",
+  "primaryRole": "FIGHTER",
+  "primaryLane": "EXP",
+  "releaseYear": 2025,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 132,
+  "name": "Marcel",
+  "primaryRole": "SUPPORT",
+  "primaryLane": "ROAM",
+  "releaseYear": 2026,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ },
+ {
+  "id": 133,
+  "name": "Hirara",
+  "primaryRole": "ASSASSIN",
+  "primaryLane": "JUNGLE",
+  "releaseYear": 2026,
+  "priceBP": 32000,
+  "priceDiamond": 599
+ }
+]
