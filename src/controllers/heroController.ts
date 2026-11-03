@@ -71,6 +71,13 @@ export const createHero = async (req: Request, res: Response, next: NextFunction
       throw new HttpError(400, 'role/lane/releaseYear tidak valid');
     }
 
+    // priceBP & priceDiamond boleh kosong, tapi kalau diisi harus bilangan bulat >= 0
+    const isValidPrice = (p: unknown) =>
+      p === undefined || p === null || (Number.isInteger(p) && (p as number) >= 0);
+    if (!isValidPrice(priceBP) || !isValidPrice(priceDiamond)) {
+      throw new HttpError(400, 'priceBP/priceDiamond harus bilangan bulat atau dikosongkan');
+    }
+
     const existing = await prisma.hero.findUnique({ where: { name } });
     if (existing) throw new HttpError(409, 'Nama hero sudah ada');
 

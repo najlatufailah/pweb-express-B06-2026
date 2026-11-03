@@ -10,10 +10,11 @@ export const getStatistics = async (req: Request, res: Response, next: NextFunct
       _sum: { diamond: true },
     });
 
+    // Hero paling banyak dimiliki. Kalau jumlah pemilik sama, ambil heroId terkecil
     const mostOwned = await prisma.playerHero.groupBy({
       by: ['heroId'],
       _count: { heroId: true },
-      orderBy: { _count: { heroId: 'desc' } },
+      orderBy: [{ _count: { heroId: 'desc' } }, { heroId: 'asc' }],
       take: 1,
     });
 
@@ -27,15 +28,15 @@ export const getStatistics = async (req: Request, res: Response, next: NextFunct
       };
     }
 
+    // Jumlah hero per role, diurutkan dari total terbesar
     const heroesPerRoleGroup = await prisma.hero.groupBy({
       by: ['role'],
       _count: { role: true },
     });
 
-    const heroesPerRole = heroesPerRoleGroup.map((g) => ({
-      role: g.role,
-      total: g._count.role,
-    }));
+    const heroesPerRole = heroesPerRoleGroup
+      .map((g) => ({ role: g.role, total: g._count.role }))
+      .sort((a, b) => b.total - a.total || a.role.localeCompare(b.role));
 
     res.status(200).json({
       status: true,
@@ -43,7 +44,7 @@ export const getStatistics = async (req: Request, res: Response, next: NextFunct
       data: {
         totalPlayers,
         totalHeroesOwned,
-        totalDiamond: aggregateDiamond._sum.diamond || 0,
+        totalDiamond: aggregateDiamond._sum.diamond ?? 0,
         mostOwnedHero,
         heroesPerRole,
       },
